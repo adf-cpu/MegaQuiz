@@ -1991,7 +1991,7 @@ else:
                 st.success("Quiz submitted successfully!")
                 st.session_state.quiz_submitted = True
 
-                total_marks = 100  # Total marks for the quiz
+                total_marks = 200  # Total marks for the quiz
                 percentage = (total_score / total_marks) * 100
                 result_message = "<h1 style='color: green;'>Congratulations! You passed the Test!</h1>" if percentage >= 70 else "<h1 style='color: red;'>Sorry You Have Failed The Test!.</h1>"
 
