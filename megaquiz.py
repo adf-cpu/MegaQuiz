@@ -101,20 +101,21 @@ allowed_usernames = {
     "ies_hamza01",
     "tt_bilal01",
     "Muhammad Ali",
-"Waris Mahmood",
-"Syed Asim Bukhari",
-"Muneeb Ur Rehman",
-"Shakir Hussain",
-"Mohsin Riaz",
-"Muhammad Kashif Yousaf",
-"Qazi Qaseem",
-"Sabhan Raheem",
-"Sayed Azhar Gillani",
-"Abdul Rehman",
-"Hammad Shoukat", 
-"Waqas Fareed", 
-"Syed Panah Ali Naqvi" 
+    "Waris Mahmood",
+    "Syed Asim Bukhari",
+    "Muneeb Ur Rehman",
+    "Shakir Hussain",
+    "Mohsin Riaz",
+    "Muhammad Kashif Yousaf",
+    "Qazi Qaseem",
+    "Sabhan Raheem",
+    "Sayed Azhar Gillani",
+    "Abdul Rehman",
+    "Hammad Shoukat", 
+    "Waqas Fareed", 
+    "Syed Panah Ali Naqvi"
 }
+
 # Define your questions
 megaquiz= {
 "true_false": [
